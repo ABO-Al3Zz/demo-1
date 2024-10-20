@@ -1,2 +1,2 @@
 # Just Learning about Git and GitHub
-### Some Text
+### Some Text here.
